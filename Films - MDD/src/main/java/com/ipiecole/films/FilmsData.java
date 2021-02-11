@@ -1,15 +1,18 @@
-package com.ipiecole.films.films;
+package com.ipiecole.films;
+
 
 public class FilmsData {
     private String categorie;
     private String description;
     private String titre;
 
+
     public FilmsData(String categorie, String description, String titre) {
         this.categorie = categorie;
         this.description = description;
         this.titre = titre;
     }
+
 
     public String getCategorie() {
         return categorie;

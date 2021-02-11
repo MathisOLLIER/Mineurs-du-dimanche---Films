@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Films - MDD" />
+        <module name="Films_MDD" />
       </profile>
     </annotationProcessing>
   </component>
